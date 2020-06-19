@@ -11,6 +11,9 @@
 
 ### For component authors
 
+*   Added BigQueryToElwcExampleGen to take a query as input and generate
+    ELWC(ExampleListAsContext) examples.
+
 ## Deprecations
 
 ## Bug fixes and other changes
@@ -140,6 +143,7 @@
 *   Depends on `tensorflow-model-analysis>=0.25,<0.26`.
 *   Depends on `tensorflow-transform>=0.25,<0.26`.
 *   Depends on `tfx-bsl>=0.25,<0.26`.
+
 
 ## Documentation updates
 
