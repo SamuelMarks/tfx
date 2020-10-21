@@ -2,7 +2,7 @@
 # proto-message: PipelineSpec
 
 pipeline_info {
-  name: "pipeline-with-runtime-parameter"
+  name: "pipeline_with_runtime_parameter"
 }
 tasks {
   task_info {

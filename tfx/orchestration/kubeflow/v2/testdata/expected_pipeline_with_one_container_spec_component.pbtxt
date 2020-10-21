@@ -2,7 +2,7 @@
 # proto-message: PipelineSpec
 
 pipeline_info {
-  name: "pipeline-with-container"
+  name: "pipeline_with_container"
 }
 tasks {
   task_info {

@@ -11,7 +11,6 @@ operator {
     }
     serialization_format: JSON
     proto_schema {
-      message_type: "tfx.components.transform.SplitsConfig"
       file_descriptors {
         file {
           name: "tfx/proto/transform.proto"
